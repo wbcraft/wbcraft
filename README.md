@@ -2,7 +2,7 @@
 
 
 
-- 👋 Hi, I’m @wbcraft
+- 👋 Hi! I’m @wbcraft, a long time old school sysadmin learning this stuff.
 - 👀 I’m interested in being a lazy sysadmin.
 - 🌱 I’m currently learning everything to become a lazy sysadmin.
 - 💞️ I’m looking to collaborate on things that will make me lazy as a sysadmin.
