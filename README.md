@@ -1,6 +1,3 @@
-!!!!!!!!!!! READ THE README FILES !!!!!!!!!!!
-
-
 
 - 👋 Hi! I’m @wbcraft, a long time old school sysadmin learning this stuff.
 - 👀 I’m interested in being a lazy sysadmin.
